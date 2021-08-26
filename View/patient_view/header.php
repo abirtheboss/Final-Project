@@ -1,0 +1,3 @@
+<td colspan="2" valign="middle" style="height:60px; background-color:darkcyan; padding: 1% 1%;"> <a href="home.php?id=<?php echo $id;?>">
+									<img src="backPic/pic.png" width="102px" height="100px" align="left"></a>
+									<p style=" width:250px; align:left; position:relative; top:30px; color:white; font-size: 20px; padding: 5px 10px;">Welcome <?php echo $username ; ?> <a align="right" style="color:orange; text-decoration:none; background-color:orange; color:white; padding:5px 10px; border-radius: 10px;" href="../../controller/patient_controller/logout.php">Logout </a></p></td>
